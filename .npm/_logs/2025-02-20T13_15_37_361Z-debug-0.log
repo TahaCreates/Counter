@@ -1,0 +1,21 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@10.9.2
+2 info using node@v23.6.1
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm create vite@latest button --template react
+7 verbose argv "create" "vite@latest" "button" "--" "--template" "react"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-02-20T13_15_37_361Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-02-20T13_15_37_361Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly packumentCache heap:966262784 maxSize:241565696 maxEntrySize:120782848
+12 silly logfile done cleaning log files
+13 http fetch GET 200 https://registry.npmjs.org/create-vite 929ms (cache updated)
+14 silly packumentCache heap:966262784 maxSize:241565696 maxEntrySize:120782848
+15 verbose cwd /data/data/com.termux/files/home
+16 verbose os Linux 4.4.205-22915538
+17 verbose node v23.6.1
+18 verbose npm  v10.9.2
+19 verbose exit 0
+20 info ok
